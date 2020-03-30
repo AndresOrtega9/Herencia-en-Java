@@ -1,2 +1,0 @@
-# Herencia en Java
- 
